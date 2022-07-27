@@ -3,7 +3,7 @@ public class Pattern1{
         
        // Pattern-1
 		
-		/*     * * * * *
+		/*         * * * * *
 		 	   * * * * *
 		 	   * * * * *
 		 	   * * * * * 
