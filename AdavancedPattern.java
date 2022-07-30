@@ -4,7 +4,7 @@ public class AdvancedPattern {
 		// Pattern-1 -> Butterfly Patterm
 		/*
 		  *             * 
-		  * *	        * * 
+		  * *	      * * 
 		  * * *     * * * 
 		  * * * * * * * * 
 		  * * * * * * * * 
