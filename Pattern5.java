@@ -3,8 +3,8 @@ public class Pattern5{
      
       // Pattern-5 
 		/*			
-		 		      * 
-		  		  * * 
+		 	      * 
+		  	    * * 
 		  	  * * * 
 		  	* * * *
 		 */
